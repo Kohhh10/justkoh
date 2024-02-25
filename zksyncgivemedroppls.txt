@@ -2,3 +2,4 @@ starknet yebany
 #2
 Mavia top
 cde 55%
+default
