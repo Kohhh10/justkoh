@@ -6,4 +6,4 @@ default 33
 commetn newn
 neww
 dont new
-mavia skip
+mavia dont spiped
