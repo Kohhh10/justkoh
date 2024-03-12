@@ -4,7 +4,5 @@ Mavia
 cde 55%
 default 33
 commetn newn
-new
-dont new
 mavia dont spiped
 8bereznya
