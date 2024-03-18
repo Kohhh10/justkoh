@@ -1,5 +1,4 @@
 hello world
-Mavia
 code 55%
 default 33
 commetn newn
