@@ -1,5 +1,4 @@
-hello world
-code 55%
+hello worl
 default 33
 commetn newn
 mavia dont spiped
