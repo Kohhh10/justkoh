@@ -1,5 +1,4 @@
-hello world 8776543
-default 33+
+hello world
 commetn newn
 mavia dont spiped
 barca 1/4 LCh end
