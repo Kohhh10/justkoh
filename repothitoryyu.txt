@@ -14,5 +14,4 @@ mmmnnn
 my command too
 news newsswen
 //
-mm
-d
+
