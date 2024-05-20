@@ -15,5 +15,4 @@ my command too
 news newsswen
 //
 mm
-don aj
-221
+d
